@@ -1,10 +1,10 @@
-package com.proyecto.polizas.demo;
+package com.proyecto.polizas.project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class ProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
